@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/stereo-2022/Stereorasp4/StereoVision/stereo_match_vid/build",
-  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -isystem /usr/include/opencv -I/home/stereo-2022/Stereorasp4/StereoVision/stereo_match_vid/include  -g   -o CMakeFiles/stereo_vid.dir/main.cpp.o -c /home/stereo-2022/Stereorasp4/StereoVision/stereo_match_vid/main.cpp",
-  "file": "/home/stereo-2022/Stereorasp4/StereoVision/stereo_match_vid/main.cpp"
-}
-]
