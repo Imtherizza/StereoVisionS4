@@ -1,0 +1,3 @@
+/home/stereo-2022/stereo-2022/StereoVision/disparity_ajust/release/CMakeFiles/rebuild_cache.dir
+/home/stereo-2022/stereo-2022/StereoVision/disparity_ajust/release/CMakeFiles/ajust.dir
+/home/stereo-2022/stereo-2022/StereoVision/disparity_ajust/release/CMakeFiles/edit_cache.dir

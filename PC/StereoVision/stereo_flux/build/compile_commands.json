@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/stereo-2022/stereo-2022/StereoVision/stereo_flux/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/opencv4 -I/home/stereo-2022/stereo-2022/StereoVision/stereo_flux/include  -g   -o CMakeFiles/stereo_pics.dir/main.cpp.o -c /home/stereo-2022/stereo-2022/StereoVision/stereo_flux/main.cpp",
+  "file": "/home/stereo-2022/stereo-2022/StereoVision/stereo_flux/main.cpp"
+}
+]

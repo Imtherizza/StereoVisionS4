@@ -1,0 +1,3 @@
+/home/pi/StereoVision/stereo_flux/release/CMakeFiles/rebuild_cache.dir
+/home/pi/StereoVision/stereo_flux/release/CMakeFiles/edit_cache.dir
+/home/pi/StereoVision/stereo_flux/release/CMakeFiles/stereo_pics.dir
