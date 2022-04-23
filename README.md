@@ -8,6 +8,8 @@ Compilation :
 Possibile erreur concernant la bibliothèque boost qui sera peut-être nécessaire de télécharger
 Pour le make, il peut y avoir des erreurs un peu  étranges, liés au fait que le programme ne trouve pas les images. Il faudra vérifier les chemins vers les doissiers ou le nom des images définis dans le code pour l'ensemble des programmes
 
+-->Il se peut que dans le dossier "/data" qu'il manque les dossiers "/Images", "/calib_image_droite", "/calib_image_gauche", si tel est le cas, les créer
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SUR PC : 3 programmes
